@@ -1,0 +1,40 @@
+{
+    "ui" : {
+        "label" : {
+            "type_to_search" : "Αναζήτηση ή επιλογή οντόντητας",
+            "error_retreiving" : Η ανάκτηση όλων των οντοτήτων δεν ήταν εφικτή!",
+            "loading" : "Φόρτωση διαθέσιμων οντοτήτων...",
+        }, 
+        "popup" : {
+            "remove_all" : "Διαγραφή όλων των δυναμικά προστιθεμένων γραφημάτων?",
+            "enable_panel" : "Ενεργοποίηση entity history info panel?",
+            "disable_panel" : "Απενεργοποίηση entity history info panel?"
+        },
+        "menu" : {  
+            "export_csv" : "Εξαγωγή ως CSV",
+            "export_stats" : "Εξαγωγή στατιστικών ως CSV",
+            "remove_all" : "Διαγραφή όλων των προστιθεμένων γραφημάτων",
+            "enable_panel" : "Ενεργοποίηση entity history info panel",
+            "disable_panel" : "Απενεργοποίηση entity history info panel?"
+        },
+        "ranges" : {
+            "l_hour" : "< 1 Ώρα",
+            "hour" : "1 Ώρα",
+            "n_hours" : "%1 Ώρες",
+            "day" : "1 Ημέρα",
+            "n_days" : "%1 Ημέρες",
+            "week" : "1 Εβδομάδα",
+            "n_weeks" : "%1 Εβδομάδες",
+            "month" : "1 Μήνα",
+            "n_months" : "%1 Μήνες",
+            "year" : "1 Χρόνο"
+        },
+        "interval" : {
+            "_10m" : "10 λεπτά",
+            "hourly" : "Ωριαία",
+            "daily" : "Ημερήσια",
+            "monthly" : "Μηνιαία",
+            "rawline" : "Ως γραμμή"
+        }
+    }
+}
